@@ -1,4 +1,4 @@
-EasyMakefile
+EasyMakeCreator
 ============
 
 
