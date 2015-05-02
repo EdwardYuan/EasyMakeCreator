@@ -27,7 +27,7 @@ Type command "easymake" in the shell, with options bellow:
 
 Choose tools name, source dir, include dir, lib dir in the main window, fill the clean file names and project name, then just click the "generate" button, if there are any errors, you will get the information at the bottom of the window. The user interface looks like bellow:
 
-![](http://)
+![](/img/gui.png)
 
 
 ##Lisence##
